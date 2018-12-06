@@ -1,2 +1,2 @@
 # cv
-kiran-kannan.github.io/cv
+https://kiran-kannan.github.io/cv/
